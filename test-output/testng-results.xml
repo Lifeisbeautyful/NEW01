@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T21:04:34 IST" name="Default suite" finished-at="2022-10-21T21:06:37 IST" duration-ms="122902">
+    <groups>
+      <group name="regressiontest">
+        <method signature="OrganizationTest.modifyOrg()[pri:1, instance:A1TestNG.OrganizationTest@7133da86]" name="modifyOrg" class="A1TestNG.OrganizationTest"/>
+      </group> <!-- regressiontest -->
+    </groups>
+    <test started-at="2022-10-21T21:04:34 IST" name="Default test" finished-at="2022-10-21T21:06:37 IST" duration-ms="122902">
+      <class name="A1TestNG.OrganizationTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:04:34 IST" name="BS" finished-at="2022-10-21T21:04:34 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:04:34 IST" name="BT" finished-at="2022-10-21T21:04:34 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:04:34 IST" name="BC" finished-at="2022-10-21T21:04:44 IST" duration-ms="9683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:04:44 IST" name="BM" finished-at="2022-10-21T21:05:26 IST" duration-ms="42147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="organizationTest()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:05:26 IST" name="organizationTest" finished-at="2022-10-21T21:06:15 IST" duration-ms="48941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:15 IST" name="AM" finished-at="2022-10-21T21:06:18 IST" duration-ms="2936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:18 IST" name="BM" finished-at="2022-10-21T21:06:24 IST" duration-ms="6164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="modifyOrg()[pri:1, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:24 IST" name="modifyOrg" finished-at="2022-10-21T21:06:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyOrg -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:24 IST" name="AM" finished-at="2022-10-21T21:06:36 IST" duration-ms="12277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:36 IST" name="AC" finished-at="2022-10-21T21:06:37 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:37 IST" name="AT" finished-at="2022-10-21T21:06:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:A1TestNG.OrganizationTest@7133da86]" started-at="2022-10-21T21:06:37 IST" name="AS" finished-at="2022-10-21T21:06:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- A1TestNG.OrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
