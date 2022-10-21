@@ -35,6 +35,7 @@ public class OrganizationTest extends  BaseClass
 		E1.sendKeys(data);
 		w.getAttribute(driver, E1);
 		O2.getSaveBtn().click();
+		System.out.println("Deepak");
 		
 		WebElement E2=O2.getTitle();
 		//String E2=O2.getTitle().getText();
